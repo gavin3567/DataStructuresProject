@@ -1,4 +1,3 @@
-# Gavin Ostheimer
-# Brandon Griffiths
-# Parker Warner
-# Eva Wu
+class Order:
+    def __init__(self) -> None:
+        pass
